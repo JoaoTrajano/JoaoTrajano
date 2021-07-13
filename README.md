@@ -1,3 +1,4 @@
+![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 ~~~javascript
 
 me = {																
@@ -21,4 +22,3 @@ me = {
 
     }										
 ~~~
-https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
