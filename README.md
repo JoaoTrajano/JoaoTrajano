@@ -1,6 +1,6 @@
 ~~~javascript
 
-me = {																https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
+me = {																
         name: "João Trajano de Souza Neto",
         age: "23",
         contact: [
@@ -19,5 +19,6 @@ me = {																https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
             }
         ]
 
-    }
- 																	
+    }										
+~~~
+https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
