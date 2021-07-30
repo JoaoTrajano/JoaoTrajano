@@ -1,24 +1,20 @@
-![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-~~~javascript
+ <div>
+  <a href="https://github.com/JoaoTrajano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoTrajano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTrajano&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+        <hr>
+<div> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/JoaoTrajano/JoaoTrajano/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-me = {																
-        name: "João Trajano de Souza Neto",
-        age: "23",
-        contact: [
-            "joao.trajanosouza@gmail.com",
-            "https://github.com/JoaoTrajano",
-            "https://www.linkedin.com/in/joão-trajano-de-souza- neto-20312a135"
-        ],
-        formation: [
-            {
-                college: "Análise e Desenvolvimento de Sistemas – 6ª Semestre – Noturno - Cursando. ",
-                institution: "Faculdade de Tecnologia Dom Amaury Castanho – FATEC / Itu-SP"
-            },
-            {
-                TechnicalGraduation: "Técnico em Informática.",
-                institution:"Escola Técnica Fernando Prestes – ETEC / Sorocaba-SP."
-            }
-        ]
-
-    }										
-~~~
