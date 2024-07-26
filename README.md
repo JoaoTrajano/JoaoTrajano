@@ -1,32 +1,50 @@
-<h2 align="left">Hi 👋! My name is João Trajano and I'm a Software Developer Full Stack</h2>
+# Olá, eu sou João Trajano 👋
 
-###
+![GitHub followers](https://img.shields.io/github/followers/JoaoTrajano?label=Follow&style=social) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoTrajano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoTrajano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Bem-vindo ao meu perfil GitHub! Aqui você encontrará informações sobre mim, meus projetos e interesses. 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
+## Sobre Mim
 
-###
+Analista e Desenvolvedor de Sistemas | Desenvolvedor Full Stack
+Tenho 5 anos de experiência atuando como Desenvolvedor Full Stack, com sólida expertise em tecnologias de front-end e back-end, além de práticas de DevOps.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- 🧑‍💻 **Ocupação**: Desenvolvedor de Software Full Stack
+- 📍 **Localização**: [Sorocaba, Brasil]
+- 🎓 **Educação**: [Analista e Desenvolvedor de Sistemas] pela [FATEC Itu - Dom Amaury Castanho]
+- 🌐 **Idiomas**: Português (Nativo)
 
-###
+## Habilidades
 
-<br clear="both">
+Aqui estão algumas das minhas principais habilidades técnicas:
+
+- **Linguagens de Programação:** 
+  - 5 anos de experiência com JavaScript
+  - 2 anos de experiência com TypeScript
+ 
+- **Desenvolvimento Web:**
+  - 2 anos de experiência com React e Next.js, incluindo:
+    - Redux, Context API, Styled-Components, Material UI, Hooks e Custom Hooks
+
+- **Desenvolvimento Mobile:**
+  - 1 ano de experiência com React Native, utilizando:
+    - Expo, Context API, Styled-Components, Hooks e Custom Hooks
+
+- **Desenvolvimento Back-end:**
+  - 3 anos de experiência com PHP
+  - 1 ano de experiência com Node.js e NestJS
+
+- **Banco de Dados:**
+  - 4 anos de experiência com MySQL
+  - 2 anos de experiência com PostgreSQL
+
+## Contato
+
+Sinta-se à vontade para entrar em contato comigo:
+- [Celular]: (15) 9976-23267
+- [LinkedIn](https://www.linkedin.com/in/joao-trajano-souza-neto)
+- [Email](mailto:joao.trajanosouza@gmail.com)
+
+---
+
+Muito obrigado pela visita! 😊
