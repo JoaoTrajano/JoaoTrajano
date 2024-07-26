@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/JoaoTrajano?label=Follow&style=social)
 
-Bem-vindo ao meu perfil GitHub! Aqui você encontrará informações sobre mim, meus projetos e interesses.
+Bem-vindo ao meu perfil GitHub! Aqui você encontrará informações sobre mim e meus projetos.
 
 ## Sobre Mim
 
