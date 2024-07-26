@@ -9,7 +9,7 @@
 
 ###
 
-
+ <img align=right height="150" alt="gif" src="https://happy05dz.tumblr.com/post/164289564000"  />
 
 ###
 
@@ -43,7 +43,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
