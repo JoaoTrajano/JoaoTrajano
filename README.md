@@ -21,19 +21,19 @@ Aqui estão algumas das minhas principais habilidades técnicas:
 
 - **Linguagens de Programação:** 
   - 5 anos de experiência com JavaScript
-  - 2 anos de experiência com TypeScript
+  - 3 anos de experiência com TypeScript
  
 - **Desenvolvimento Web:**
-  - 2 anos de experiência com React e Next.js, incluindo:
+  - 3 anos de experiência com React e Next.js, incluindo:
     - Redux, Context API, Styled-Components, Material UI, Hooks e Custom Hooks
 
 - **Desenvolvimento Mobile:**
-  - 1 ano de experiência com React Native, utilizando:
+  - 2 ano de experiência com React Native, utilizando:
     - Expo, Context API, Styled-Components, Hooks e Custom Hooks
 
 - **Desenvolvimento Back-end:**
   - 3 anos de experiência com PHP
-  - 1 ano de experiência com Node.js e NestJS
+  - 2 ano de experiência com Node.js e NestJS
 
 - **Banco de Dados:**
   - 4 anos de experiência com MySQL
